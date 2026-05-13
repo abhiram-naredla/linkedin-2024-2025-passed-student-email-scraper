@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LinkedIn Student Scraper (Graduation 2024-2025)
 
 A professional-grade Python automation tool using **Selenium** to find and extract student profile data for specific graduation years.
@@ -80,3 +81,19 @@ project/
 
 ---
 **Disclaimer**: This tool is for educational purposes only. Scraping LinkedIn might violate their Terms of Service. Use at your own risk.
+=======
+# linkedin-2024-2025-passed-student-email-scraper
+edit your linkedin email and password in env file to login.
+# Student Scraper
+
+A Python project to scrape LinkedIn student profiles.
+
+## Features
+- Selenium automation
+- CSV export
+- Login support
+
+## Run
+```bash
+python main.py
+>>>>>>> 2693c965706cf25ed92525a8ec325ed6a39f27bc
