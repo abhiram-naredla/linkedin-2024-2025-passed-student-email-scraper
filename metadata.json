@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Student Scraper",
+  "description": "A Python automation tool built with Selenium to extract graduation data (2024-2025) from LinkedIn profiles, featuring automated login and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
